@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" width="640" height="440" role="img" aria-label="Bidang koordinat Kartesius dengan titik (1,2), (2,4), dan (3,6)">
+  <rect x="0" y="0" width="640" height="440" rx="24" fill="#f8fbff"/>
+  <g stroke="#dbe4ff" stroke-width="1">
+    <path d="M70 332 H550 M70 284 H550 M70 236 H550 M70 188 H550 M70 140 H550 M70 92 H550 M70 44 H550"/>
+    <path d="M118 380 V30 M166 380 V30 M214 380 V30 M262 380 V30 M310 380 V30 M358 380 V30 M406 380 V30 M454 380 V30 M502 380 V30 M550 380 V30"/>
+  </g>
+  <g stroke="#16224a" stroke-width="2.5" fill="none">
+    <path d="M70 380 H570" marker-end="url(#arrowX)"/>
+    <path d="M70 380 V24" marker-end="url(#arrowY)"/>
+  </g>
+  <defs>
+    <marker id="arrowX" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#16224a"/></marker>
+    <marker id="arrowY" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#16224a"/></marker>
+  </defs>
+  <g font-family="Nunito, sans-serif" font-size="13" fill="#16224a" text-anchor="middle">
+    <text x="118" y="400">1</text><text x="166" y="400">2</text><text x="214" y="400">3</text><text x="262" y="400">4</text><text x="310" y="400">5</text><text x="358" y="400">6</text><text x="406" y="400">7</text><text x="454" y="400">8</text>
+  </g>
+  <g font-family="Nunito, sans-serif" font-size="13" fill="#16224a" text-anchor="end">
+    <text x="60" y="337">2</text><text x="60" y="289">3</text><text x="60" y="241">4</text><text x="60" y="193">5</text><text x="60" y="145">6</text><text x="60" y="97">7</text><text x="60" y="385">0</text>
+  </g>
+  <g font-family="Poppins, sans-serif" font-weight="700" font-size="17" fill="#2f6bff">
+    <text x="586" y="386">X</text><text x="60" y="20">Y</text>
+  </g>
+  <g stroke="#2f6bff" stroke-width="1.6" stroke-dasharray="5 5" opacity="0.45">
+    <path d="M118 380 V284 M70 284 H118"/>
+    <path d="M166 380 V188 M70 188 H166"/>
+    <path d="M214 380 V92 M70 92 H214"/>
+  </g>
+  <g>
+    <circle cx="118" cy="284" r="9" fill="#fb7185" stroke="#ffffff" stroke-width="3"/>
+    <circle cx="166" cy="188" r="9" fill="#fb7185" stroke="#ffffff" stroke-width="3"/>
+    <circle cx="214" cy="92" r="9" fill="#fb7185" stroke="#ffffff" stroke-width="3"/>
+  </g>
+  <g font-family="Poppins, sans-serif" font-weight="700" font-size="14" fill="#9f1239">
+    <text x="130" y="275">(1, 2)</text>
+    <text x="178" y="179">(2, 4)</text>
+    <text x="226" y="83">(3, 6)</text>
+  </g>
+  <g font-family="Nunito, sans-serif" font-size="13" fill="#1e3fbf">
+    <text x="330" y="55">Fungsi: setiap nilai X hanya punya satu nilai Y</text>
+    <text x="330" y="78">Titik berasal dari pasangan berurutan (x, y)</text>
+  </g>
+</svg>
